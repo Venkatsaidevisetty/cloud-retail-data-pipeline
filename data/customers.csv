@@ -1,0 +1,8 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,Asha,Rao,asha.rao@example.com,Bengaluru,India,2023-01-15
+2,Liam,Smith,liam.smith@example.com,Toronto,Canada,2023-02-20
+3,Mei,Chen,mei.chen@example.com,Singapore,Singapore,2023-03-05
+4,Carlos,Diaz,carlos.diaz@example.com,Madrid,Spain,2023-04-11
+5,Sara,Khan,sara.khan@example.com,Dubai,UAE,2023-05-30
+1,Asha,Rao,asha.duplicate@example.com,Bengaluru,India,2023-06-01
+6,Noah,Lee,,Seoul,South Korea,2023-07-01

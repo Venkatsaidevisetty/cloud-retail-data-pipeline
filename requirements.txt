@@ -1,0 +1,5 @@
+pyspark
+pandas
+pytest
+google-cloud-bigquery
+boto3

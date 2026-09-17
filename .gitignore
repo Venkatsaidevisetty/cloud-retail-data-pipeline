@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Pipeline output (generated data, not source)
+data/bronze/
+data/silver/
+data/gold/
+
+# macOS
+.DS_Store
+
+# Databricks / Spark
+.databricks/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/

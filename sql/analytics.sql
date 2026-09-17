@@ -1,0 +1,9 @@
+-- analytics.sql
+--
+-- Purpose: Example analytics queries to run against the Gold layer
+-- (e.g. in BigQuery) once the pipeline is built.
+--
+-- Planned queries (not implemented yet):
+-- - Total revenue per customer
+-- - Best-selling products by quantity
+-- - Order counts by status (completed, pending, cancelled)

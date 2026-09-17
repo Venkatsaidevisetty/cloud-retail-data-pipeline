@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python -c \"import pyspark; print\\('pyspark version:', pyspark.__version__\\)\")",
+      "Bash(java -version)"
+    ]
+  }
+}
